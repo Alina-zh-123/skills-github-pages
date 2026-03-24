@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog!
 ---
-This is nan example for GitHub Pages!
+This is an example for GitHub Pages!
